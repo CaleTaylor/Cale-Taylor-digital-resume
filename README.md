@@ -1,7 +1,7 @@
 # Cale Taylor digital resume
  Cale Taylor's digital resume
 
-Bio:
+Created Bio for README:
 My name is Cale Taylor.  
 I am a senior electrical engineering student from Jackson, MS.
 In my free time, I enjoy listening to, playing, and writing music.
